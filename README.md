@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @noahVSCode
 - 👀 I’m interested in sports.
 - 🌱 I’m currently learning math, english, science, social studies, coding, etc. I'm in 7th grade.
-- 💞️ I’m looking to collaborate on creative coding projects using JS, HTML, and CSS
-- 📫 How to reach me: noahhenok46@gmail.com
-- 😄 Pronouns: he/him
+- 💞️ I’m looking to collaborate on creative coding projects using JS, HTML, Python, and CSS
 - ⚡ Fun fact: I've had skin boils once and couldn't walk properly until I got an anesthesia!
 
 <!---
